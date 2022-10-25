@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> A Portfolio About Me </title>
+	</head>
+	<body>
+
+	<h1> Hi I hope you like this website </h1>
+	<p> DOGS ARE BETTER THAN CATS IF YOU DISAGREE WITH ME YOU'RE A PHCYCOPATH</p>
+ 	<table>
+ 	<tr>
+ 	  <th>skills</th>
+ 	  <th>effectivness</th>
+ 	  <th>liking</th>
+ 	  <th>other info</th>
+ 	</tr>
+ 	<tr>
+ 	  <td>python</td>
+ 	  <td>7/10</td>
+  	  <td>10/10</td>
+  	  <td>I Play piano(grade 4) and drums (grade 3)</td>
+ 	</tr>
+ 	<tr>I have coaded many things</td>
+ 	<tr>I started when I was 8</td>
+ 	<tr>I realy like coading</td>
+ 	<tr>I realy like music</td>
+	</tr>
+    </table> 
+	</html>
+	</body>
